@@ -1,33 +1,9 @@
-
-/* Your CSS Code here. */
-/* Apply global styles */
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f4f4f4;
-}
-
-/* Style for the h1 */
-h1 {
-    text-align: center;
-    color: #333;
-}
-
-/* Style for the blockquote with 'questions' class */
-blockquote.questions {
-    background-color: #f8fffe;
-    height: 50px;
-    margin-top: 20px;
-    padding: 15px;
-    max-width: 600px; /* Set max width */
-    border-left: 8px solid green; /* Green border on the left */
-    margin-left: auto;
-    margin-right: auto;
-}
-
-/* Style for the p tag inside blockquote */
-blockquote.questions p {
-    font-size: 18px;
-    color: #333;
-    margin: 0;
+.questions{
+	background-color:#f8fffe;
+	height:50px;
+	margin-top:20px;
+	padding:15px;
+	max-width:600px;
+	border-left:8px solid green;
+	
 }
